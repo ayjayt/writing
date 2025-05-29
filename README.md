@@ -1,2 +1,4 @@
-Published writing. Some of it gets technical, but manuals, tutorials, and formal
-classes are published in other repositories or part of geopozo.
+Repo for published writing
+
+While some technical stuff is here, manuals, tutorials, and classes are in
+other repos or [GeoPozo](https://www.github.com/geopozo/).
