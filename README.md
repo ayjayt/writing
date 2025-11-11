@@ -1,4 +1,3 @@
-Repo for published writing
+# Writing
 
-While some technical stuff is here, manuals, tutorials, and classes are in
-other repos or [GeoPozo](https://www.github.com/geopozo/).
+My personal writing, not directed at anyone specifically, not required reading.
